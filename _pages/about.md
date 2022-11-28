@@ -7,4 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Im graduate students in statistics 
+I'm a Statistics graduate student with a passion for the field of Data Science and Machine Learning.
+I have a wide spectrum of interest exploring various fields of data science and statistics.
